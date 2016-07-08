@@ -1,0 +1,12 @@
+E:\C#\Projekty\Osoby\Osoby\obj\Release\ResolveAssemblyReference.cache
+E:\C#\Projekty\Osoby\Osoby\bin\Release\Osoby.exe.config
+E:\C#\Projekty\Osoby\Osoby\bin\Release\Osoby.exe
+E:\C#\Projekty\Osoby\Osoby\bin\Release\Osoby.pdb
+E:\C#\Projekty\Osoby\Osoby\obj\Release\Osoby.exe
+E:\C#\Projekty\Osoby\Osoby\obj\Release\Osoby.pdb
+E:\C#\Projekty\Osoby\Osoby\obj\Release\Osoby.HlavniPanel.resources
+E:\C#\Projekty\Osoby\Osoby\obj\Release\Osoby.Properties.Resources.resources
+E:\C#\Projekty\Osoby\Osoby\obj\Release\Osoby.csproj.GenerateResource.Cache
+E:\C#\Projekty\Osoby\Osoby\obj\Release\Osoby.AdresaPanel.resources
+E:\C#\Projekty\Osoby\Osoby\obj\Release\Osoby.OsobaPanel.resources
+E:\C#\Projekty\Osoby\Osoby\obj\Release\Osoby.PanelVyberuAdres.resources
